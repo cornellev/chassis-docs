@@ -1,0 +1,6 @@
+- [x] Side skirts (partially done)
+- [x] Bulkhead (partially done)
+- [x] Mold splitting (TBD once the design is COMPLETELY finalized with sensors in mind)
+- [x] Design experimentation
+- [x] Headlights (Porsche 918) 
+- [ ] Mirrors (BMW M3)

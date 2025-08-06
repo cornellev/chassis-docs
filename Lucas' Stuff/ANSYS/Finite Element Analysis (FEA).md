@@ -1,0 +1,1 @@
+Simulates [[Statics|Static]] simulation by using the [[Finite Element Method]].
