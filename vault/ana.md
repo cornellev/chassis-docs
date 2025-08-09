@@ -16,6 +16,8 @@ Main hub for everything Ana is currently working on or has contributed to.
 
 ## By project
 
+---
+
 ## 🏠 Main Hub
 - [[README]] - Return to main chassis documentation homepage
 

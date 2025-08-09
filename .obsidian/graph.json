@@ -20,6 +20,13 @@
         "a": 1,
         "rgb": 14725458
       }
+    },
+    {
+      "query": "tag:#topic",
+      "color": {
+        "a": 1,
+        "rgb": 14111456
+      }
     }
   ],
   "collapse-display": true,

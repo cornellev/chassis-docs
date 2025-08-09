@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1c933e50a282ccab",
+        "id": "9624865615e3c22a",
         "type": "tabs",
         "children": [
           {
-            "id": "95c21f8743a98cc6",
+            "id": "3fdb7fd29fe3415e",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -146,8 +146,19 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "3092631335cc2891",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -160,38 +171,39 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "95c21f8743a98cc6",
+  "active": "3fdb7fd29fe3415e",
   "lastOpenFiles": [
+    "vault/lucas.md",
+    "vault/ei_FEA.md",
+    "vault/ANSYS.md",
+    "vault/Alias.md",
+    "vault/ei.md",
+    "README.md",
+    "vault/technical-index.md",
+    "Alias.md",
     "vault/notes-index.md",
     "vault/team-notes.md",
     "vault/serkan.md",
-    "vault/lucas.md",
     "vault/manufacturing-index.md",
-    "vault/technical-index.md",
-    "README.md",
     "misc/nav.md",
     "misc/template.md",
     "misc",
     "template.md",
     "(TEMPLATE) Main.md",
-    "vault/ei.md",
     "vault/chassis_4_24.md",
     "vault/cev_goals_sp2025.md",
     "Statics.md",
     "vault/Ei - FEA Steps.md",
     "vault/Lucas' Composites Database.md",
     "vault/Finite Element Analysis (FEA).md",
-    "vault/ANSYS.md",
     "vault/Lucas' Stuff.md",
     "vault/To Learn - CEV.md",
     "vault/UC25 Mold Splits.md",
     "vault/UC25 Recruitment Poster.md",
-    "vault/UC25 Mirrors.md",
-    "vault/mech_meeting_notes_4_12.md",
-    "vault/EV Meeting Notes 08_05_2024.md",
     "assets/coreProperties.png",
     "assets/materialCategories.png",
     "assets/carbonProperties.png",
