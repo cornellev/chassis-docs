@@ -3,12 +3,14 @@
 
 ## By software package
  - [[ANSYS]]
- - [[Autodesk Alias]]
+ - [[Alias|Autodesk Alias]]
 
 ## By field
 - [[Fluid Dynamics]]
 - [[Statics]]
 - [[Dynamics]]
+
+---
 
 ## 🏠 Main Hub
  - [[README]] - Return to database homepage

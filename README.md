@@ -51,8 +51,8 @@ This database uses [**Obsidian**](https://obsidian.md), an incredibly useful not
 
 ## 🔍 Maintainers
 
-| [Lucas Libshutz][ll] |
-| :------------: |
+|                     [Lucas Libshutz][ll]                     |
+| :----------------------------------------------------------: |
 | <img src="https://github.com/lucaslibshutz.png" width="180"> |
 
 [ll]: https://github.com/lucaslibshutz

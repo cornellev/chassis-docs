@@ -7,7 +7,8 @@ Main hub for everything Lucas is currently working on or has contributed to.
 ## Currently working on:
 - [[CNC]]
 - [[CFD|ANSYS CFD]]
-- [[Molds]]
+- [[Layup]]
+- [[Spraying]]
 
 ## By topic
 
@@ -26,6 +27,7 @@ Main hub for everything Lucas is currently working on or has contributed to.
 
 ## By project
 
+---
+
 ## 🏠 Main Hub
 - [[README]] - Return to main chassis documentation homepage
-
