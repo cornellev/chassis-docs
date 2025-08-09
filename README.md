@@ -20,9 +20,9 @@ This database uses [**Obsidian**](https://obsidian.md), an incredibly useful not
 ## 🔗 Quick Navigation (*Obsidian friendly links*)
 
 ### 🛠️ Technical Resources
-- [[vault/technical-index|Theory Index]] - Central hub for all theoretical concepts and related documentation 
+- [[technical-index|Theory Index]] - Central hub for all theoretical concepts and related documentation 
 - [[manufacturing-index|Manufacturing Index]] -  Hub for all manufacturing, including CNC and composite techniques.
-- [[vault/team-notes|Notes Index]] - Source for any miscellaneous notes taken whenever, wherever.
+- [[notes-index|Notes Index]] - Source for any miscellaneous notes taken whenever, wherever.
 
 ### 👥 Knowledge Hubs by Team Member
 - [[vault/lucas|Lucas]] 

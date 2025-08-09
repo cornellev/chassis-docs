@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0bf34e464e6e719a",
+        "id": "1c933e50a282ccab",
         "type": "tabs",
         "children": [
           {
-            "id": "e657b1a9a6643367",
+            "id": "95c21f8743a98cc6",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -163,8 +163,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e657b1a9a6643367",
+  "active": "95c21f8743a98cc6",
   "lastOpenFiles": [
+    "vault/notes-index.md",
+    "vault/team-notes.md",
     "vault/serkan.md",
     "vault/lucas.md",
     "vault/manufacturing-index.md",
@@ -190,8 +192,6 @@
     "vault/UC25 Mirrors.md",
     "vault/mech_meeting_notes_4_12.md",
     "vault/EV Meeting Notes 08_05_2024.md",
-    "vault/Autodesk Alias (Extras).md",
-    "vault/Alias To Do.md",
     "assets/coreProperties.png",
     "assets/materialCategories.png",
     "assets/carbonProperties.png",
