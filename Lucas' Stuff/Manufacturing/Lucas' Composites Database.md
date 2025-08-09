@@ -1,7 +1,0 @@
-- Hand Layup
-- Vacuum Infusion
-- Pre-Impregnated
-- Cores
-- Resins
-- Finishes
-- Best Practices

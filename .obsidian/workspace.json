@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "11ebeae2ab3ba7bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "0bf34e464e6e719a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e657b1a9a6643367",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d60fa42be32f6d17",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5526456f00f6a3f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5969e1f9fde2929",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c6622e56042bb2f8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9a5f33177e3e66e9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "ae650a2b3498f49b",
+    "type": "split",
+    "children": [
+      {
+        "id": "f37ad4d9719b5a98",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dabb3b7646048db8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for README"
+            }
+          },
+          {
+            "id": "0833b8bf3d2b49a7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from README"
+            }
+          },
+          {
+            "id": "4382e42c64c9404a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "35776b31eedd7618",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e657b1a9a6643367",
+  "lastOpenFiles": [
+    "vault/serkan.md",
+    "vault/lucas.md",
+    "vault/manufacturing-index.md",
+    "vault/technical-index.md",
+    "README.md",
+    "misc/nav.md",
+    "misc/template.md",
+    "misc",
+    "template.md",
+    "(TEMPLATE) Main.md",
+    "vault/ei.md",
+    "vault/chassis_4_24.md",
+    "vault/cev_goals_sp2025.md",
+    "Statics.md",
+    "vault/Ei - FEA Steps.md",
+    "vault/Lucas' Composites Database.md",
+    "vault/Finite Element Analysis (FEA).md",
+    "vault/ANSYS.md",
+    "vault/Lucas' Stuff.md",
+    "vault/To Learn - CEV.md",
+    "vault/UC25 Mold Splits.md",
+    "vault/UC25 Recruitment Poster.md",
+    "vault/UC25 Mirrors.md",
+    "vault/mech_meeting_notes_4_12.md",
+    "vault/EV Meeting Notes 08_05_2024.md",
+    "vault/Autodesk Alias (Extras).md",
+    "vault/Alias To Do.md",
+    "assets/coreProperties.png",
+    "assets/materialCategories.png",
+    "assets/carbonProperties.png",
+    "assets"
+  ]
+}
