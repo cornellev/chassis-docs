@@ -8,5 +8,5 @@
 ---
 
 ## 🏠 Main Hub
- - [[README]] - Return to database homepage
+ - [README](../README.md) - Return to database homepage
 

@@ -5,29 +5,29 @@
 
 Main hub for everything Lucas is currently working on or has contributed to.
 ## Currently working on:
-- [[CNC]]
-- [[CFD|ANSYS CFD]]
-- [[Layup]]
-- [[Spraying]]
+- [CNC](CNC.md)
+- [ANSYS CFD](CFD.md)
+- [Layup](Layup.md)
+- [Spraying](Spraying.md)
 
 ## By topic
 
 ### Simulation
-- [[FEA|ANSYS FEA]]
-- [[CFD|ANSYS CFD]]
-- [[ACP| ANSYS Composites]]
+- [ANSYS FEA](FEA.md)
+- [ANSYS CFD](CFD.md)
+- [ANSYS Composites](ACP.md)
 
 ### Design
-- [[Alias|Autodesk Alias]]
-- [[VRED|Autodesk VRED]]
+- [Autodesk Alias](Alias.md)
+- [Autodesk VRED](VRED.md)
 
 ### Manufacturing
-- [[CNC]]
-- [[Molds]]
+- [CNC](CNC.md)
+- [Molds](Molds.md)
 
 ## By project
 
 ---
 
 ## 🏠 Main Hub
-- [[README]] - Return to main chassis documentation homepage
+- [README](../README.md) - Return to main chassis documentation homepage
