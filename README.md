@@ -13,24 +13,23 @@ Hello! Welcome to the **Cornell Electric Vehicles** *Chassis* subteam knowledge 
 
 This database uses [**Obsidian**](https://obsidian.md), an incredibly useful notes editor that makes organizing data extremely easy. You can read more on getting started with Obsidian below:
 
-1. LINK 1 
-2. LINK 2
-3. LINK 3
+1. [Obsidian Help Documentation](https://help.obsidian.md/) - Official comprehensive guide to using Obsidian
+2. [Obsidian for Beginners: Start HERE](https://obsidian.rocks/getting-started-with-obsidian-a-beginners-guide/) - Step-by-step beginner's guide
 
 ## 🔗 Quick Navigation (*Obsidian friendly links*)
 
 ### 🛠️ Technical Resources
-- [[technical-index|Theory Index]] - Central hub for all theoretical concepts and related documentation 
-- [[manufacturing-index|Manufacturing Index]] -  Hub for all manufacturing, including CNC and composite techniques.
-- [[notes-index|Notes Index]] - Source for any miscellaneous notes taken whenever, wherever.
+- [Theory Index](vault/technical-index.md) - Central hub for all theoretical concepts and related documentation 
+- [Manufacturing Index](vault/manufacturing-index.md) -  Hub for all manufacturing, including CNC and composite techniques.
+- [Notes Index](vault/notes-index.md) - Source for any miscellaneous notes taken whenever, wherever.
 
 ### 👥 Knowledge Hubs by Team Member
-- [[vault/lucas|Lucas]] 
-- [[vault/ei|Ei]]
-- [[vault/zach|Zach]]
-- [[vault/ana|Ana]]
-- [[vault/serkan|Serkan]]
-- [[vault/yohanne|Yohanne]]
+- [Lucas](vault/lucas.md)
+- [Ei](vault/ei.md)
+- [Zach](vault/zach.md)
+- [Ana](vault/ana.md)
+- [Serkan](vault/serkan.md)
+- [Yohanne](vault/yohanne.md)
 
 ##  Getting Started / Installation
 

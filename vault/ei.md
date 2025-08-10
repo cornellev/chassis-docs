@@ -19,5 +19,5 @@ Main hub for everything Ei is currently working on or has contributed to.
 ---
 
 ## 🏠 Main Hub
-- [[README]] - Return to main chassis documentation homepage
+- [README](../README.md) - Return to main chassis documentation homepage
 

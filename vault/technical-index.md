@@ -2,16 +2,16 @@
 #navigation
 
 ## By software package
- - [[ANSYS]]
- - [[Alias|Autodesk Alias]]
+ - [ANSYS](ANSYS.md)
+ - [Autodesk Alias](Alias.md)
 
 ## By field
-- [[Fluid Dynamics]]
-- [[Statics]]
-- [[Dynamics]]
+- [Fluid Dynamics](Fluid-Dynamics.md)
+- [Statics](Statics.md)
+- [Dynamics](Dynamics.md)
 
 ---
 
 ## 🏠 Main Hub
- - [[README]] - Return to database homepage
+ - [README](../README.md) - Return to database homepage
 

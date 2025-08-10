@@ -4,4 +4,4 @@
 ## Sub-topics
 
 ## Relevant files
-[[ei_FEA|Ei - How FEA works]]
+[Ei - How FEA works](ei_FEA.md)
