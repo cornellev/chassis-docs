@@ -1,4 +1,4 @@
-# 🏎️ Chassis Documentation
+# ![Logo](https://static.wixstatic.com/media/9bc36c_6b5947752da64f8fbfca0d30a0138f3a~mv2.png/v1/fill/w_30,h_62,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/logolight.png) Chassis Documentation
 #navigation
 
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
