@@ -30,6 +30,7 @@ This database uses [**Obsidian**](https://obsidian.md), an incredibly useful not
 - [Ana](vault/ana.md)
 - [Serkan](vault/serkan.md)
 - [Yohanne](vault/yohanne.md)
+- [Selena](vault/selena.md)
 
 ##  Getting Started / Installation
 
