@@ -3,7 +3,7 @@
 
 ---
 
-Main hub for everything Serkan is currently working on or has contributed to.
+Main hub for everything beefSerky is currently working on or has contributed to.
 ## Currently working on:
 
 ## By topic
