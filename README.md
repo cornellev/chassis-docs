@@ -27,6 +27,7 @@ This database uses [**Obsidian**](https://obsidian.md), an incredibly useful not
 - [Lucas](vault/lucas.md)
 - [Ei](vault/ei.md)
 - [Zach](vault/zach.md)
+- [Joe](joe.md)
 - [Ana](vault/ana.md)
 - [Serkan](vault/serkan.md)
 - [Yohanne](vault/yohanne.md)
