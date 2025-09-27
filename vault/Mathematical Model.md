@@ -14,6 +14,11 @@ Determine $u(x)$ such that $\frac{d^2u}{dx^2}=1$ and $0\leq x \leq 4$
 
 $$\rho\left(u\frac{∂u}{∂x}+v\frac{∂u}{∂y}\right)=-\frac{∂p}{dx}+\mu\left(\frac{∂^2u}{∂x^2}+\frac{∂^2u}{∂y^2}\right)$$
 
+
+$u$ = velocity $\left(\pu{\frac{m}{s}}\right)$
+$\rho$ = density $\left(\pu{\frac{kg}{m^3}}\right)$
+$\mu$ = viscosity $\left(\pu{\frac{kg}{m\times s}}\right)$
+$p$ = pressure $\left(\pu{\frac{N}{m^2}}\right)$
 ### Differential and Integral Forms of Governing Equations
 
 **Differential**: Apply conservation laws to infinitesimal fluid element
@@ -22,7 +27,6 @@ $$\rho\left(u\frac{∂u}{∂x}+v\frac{∂u}{∂y}\right)=-\frac{∂p}{dx}+\mu\le
 **Integral**: Apply conservation laws to finite region in flow domain
 
 ### Eulerian and Lagrangian Descriptions
-
 **Velocity and Pressure Field**
 - $\mathbf{V}(x,y,t)$
 - $p(x,y,t)$
@@ -30,5 +34,38 @@ $$\rho\left(u\frac{∂u}{∂x}+v\frac{∂u}{∂y}\right)=-\frac{∂p}{dx}+\mu\le
 **Eulerian**
 At time $t_0$, velocity at $(x_0,y_0)$ is $\mathbf{V}(x_0,y_0,t_0)=\mathbf{V}_0$
 
-Steady Flow: $p(x,y,t)=p(x,y)$, and $\mathbf{V}(x,y,t)=\mathbf{V}(x,y)$
+Steady Flow: $p(x,y,t)=p(x,y)$, and $\mathbf{V}(x,y,t)=\mathbf{V}(x,y)=u(x,y)\hat{\mathbf{i}}+v(x,y)\hat{\mathbf{j}}$
 
+**Lagrangian**
+At time $t_0$, fluid element "$A$" is at $(x_0, y_0)$
+- $x_A(t_0)=x_0$
+- $y_A(t_0)=y_0$
+- $\mathbf{V}_A(t_0)=\mathbf{V}_0=u_0\hat{\mathbf{i}}+v_0\hat{\mathbf{j}}$
+
+### Differential Form of Mass Conservation
+- $\rho$ = constant (incompressible flow)
+- mass = $\rho * Volume$
+Go from time $t$ to $t+\Delta t$ and let $\Delta t \rightarrow 0$ 
+- $\Delta Vol=\Delta u\Delta t\Delta y\Delta z$ 
+- $\frac{\Delta Vol}{\Delta t Vol}=\frac{∂u}{∂x}+\frac{∂v}{∂y}$ 
+- $\Delta u=\frac{∂u}{∂x} \Delta x +h.o.t.$ 
+- $\Delta v=\frac{∂v}{∂y}\Delta y$
+
+### Differential Form of Momentum Conservation
+**Forces
+- Pressure
+- Viscous
+- ~~Gravity~~
+- $a_x=\lim_{\Delta t \to 0} \frac{\Delta u}{\Delta t}=u \frac{∂u}{∂x}+v \frac{∂u}{∂y}$
+- $a_y=\lim_{\Delta t \to 0} \frac{\Delta v}{\Delta t}=u \frac{∂v}{∂x}+v \frac{∂v}{∂y}$
+**Acceleration in 2D
+$$\vec{a}=\left(u \frac{∂u}{∂x}+v \frac{∂u}{∂y}\right)\hat{\mathbf{i}}+\left(u \frac{∂v}{∂x}+v \frac{∂v}{∂y}\right)\hat{\mathbf{j}}$$  
+**Other forms
+- $\vec a=\left(\vec V \cdot \nabla \right)$ where $\vec V=u\hat{\mathbf{i}}+v\hat{\mathbf{j}}$  and $\nabla = \hat{\mathbf{i}} \frac{∂}{∂x}+\hat{\mathbf{j}}\frac{∂}{∂y}$ 
+**Pressure Force on Fluid Element
+- Net pressure force in x dir. per unit volume = $-\frac{∂p}{∂x}$
+- Net pressure force in y dir. per unit volume = $-\frac{∂p}{∂y}$
+- Net pressure force per unit volume:
+$$-\left(\frac{∂p}{∂x}\hat{\mathbf{i}}+\frac{∂p}{∂y}\hat{\mathbf{j}}\right)=-\nabla p$$
+**Viscous Forces
+![Viscous Forces](Images/Viscous-Forces.png)
