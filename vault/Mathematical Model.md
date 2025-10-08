@@ -69,3 +69,9 @@ $$\vec{a}=\left(u \frac{∂u}{∂x}+v \frac{∂u}{∂y}\right)\hat{\mathbf{i}}+\
 $$-\left(\frac{∂p}{∂x}\hat{\mathbf{i}}+\frac{∂p}{∂y}\hat{\mathbf{j}}\right)=-\nabla p$$
 **Viscous Forces
 ![Viscous Forces](Images/Viscous-Forces.png)
+- Net viscous forces per unit volume:
+$$\left(\frac{∂\tau_{xx}}{∂x}+\frac{∂\tau_{xy}}{∂y}\right)\hat{\mathbf{i}}+\left(\frac{∂\tau_{xy}}{∂x}+\frac{∂\tau_{yy}}{∂y}\right)\hat{\mathbf{j}}$$
+- $\hat{\mathbf{i}}$ is forces in x and $\hat{\mathbf{j}}$ is forces in y
+
+**Forces per unit volume 
+- 
