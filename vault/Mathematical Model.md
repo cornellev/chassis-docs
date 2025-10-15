@@ -74,4 +74,38 @@ $$\left(\frac{∂\tau_{xx}}{∂x}+\frac{∂\tau_{xy}}{∂y}\right)\hat{\mathbf{i
 - $\hat{\mathbf{i}}$ is forces in x and $\hat{\mathbf{j}}$ is forces in y
 
 **Forces per unit volume 
-- 
+- Net pressure force per unit volume:$$-\left(\frac{∂p}{∂x}\hat{i}+\frac{∂p}{∂y}\hat{j}\right)=-\nabla p$$
+- Net viscous force per unit volume:$$\left(\frac{∂\tau_{xx}}{∂x}+\frac{∂\tau_{xy}}{∂y}\right)\hat{\mathbf{i}}+\left(\frac{∂\tau_{xy}}{∂x}+\frac{∂\tau_{yy}}{∂y}\right)\hat{\mathbf{j}}=\nabla \cdot \mathbf{\tau}$$$$\nabla \cdot \mathbf{\tau}=\begin{bmatrix} \dfrac{∂}{∂x}&\dfrac{∂}{∂y}\end{bmatrix} \cdot \begin{bmatrix} \tau_{xx} & \tau_{xy} \\ \tau_{xy} & \tau_{yy}\end{bmatrix}$$
+**Differential Form of Momentum Conservation**
+$\rho \left(\vec{V} \cdot \nabla \right)\vec{V}=-\nabla p+\nabla \cdot \mathbf{\tau}$
+$\rho \left(u \dfrac{∂u}{∂x}+v \dfrac{∂u}{∂y}\right)=-\dfrac{∂p}{∂x}+\dfrac{∂\tau_{xx}}{∂x}+\dfrac{∂\tau_{xy}}{∂y}$ 
+$\rho \left(u \dfrac{∂v}{∂x}+v \dfrac{∂v}{∂y}\right)=-\dfrac{∂p}{∂y}+\dfrac{∂\tau_{xy}}{∂x}+\dfrac{∂\tau_{yy}}{∂y}$ 
+
+Unknown functions:
+- $u(x,y)$
+- $v$
+- $p$
+- $\tau_{xx}$
+- $\tau_{xy}$
+- $\tau_{yy}$
+
+**Newtonian Fluids**
+![Newtonian Fluid](Images/Newtonian_Fluid1.png)
+![Newtonian Fluid](Images/Newtonian_Fluid2.png)
+![Newtonian Fluid](Images/Newtonian_Fluid3.png)
+- If you preform $\vec{F}=m\vec{a}$ on a Newtonian Fluid, you get the **Navier-Stokes equations**:
+$$\rho \left(u \dfrac{∂u}{∂x}+v \dfrac{∂u}{∂y}\right)=-\dfrac{∂p}{∂x}+\mu\left(\dfrac{∂^2u}{∂x^2}+\dfrac{∂^2u}{∂y^2}\right)$$$$\rho \left(u \dfrac{∂v}{∂x}+v \dfrac{∂v}{∂y}\right)=-\dfrac{∂p}{∂y}+\mu\left(\dfrac{∂^2v}{∂x^2}+\dfrac{∂^2v}{∂y^2}\right)$$
+**These equations are what's used to solve for the state of a fluid element at time t**
+
+**Unknowns**:
+- $u(x,y)$
+- $v(x,y)$
+- $p(x,y)$
+
+**Assumptions**
+- 2D
+- Steady
+- Newtonian Fluid
+	- $\tau=\mu\dot{\gamma}$ and $\mu$ is constant
+- Incompressible
+
