@@ -1,0 +1,1 @@
+$$\rho \left(u \dfrac{∂u}{∂x}+v \dfrac{∂u}{∂y}\right)=-\dfrac{∂p}{∂x}+\mu\left(\dfrac{∂^2u}{∂x^2}+\dfrac{∂^2u}{∂y^2}\right)$$$$\rho \left(u \dfrac{∂v}{∂x}+v \dfrac{∂v}{∂y}\right)=-\dfrac{∂p}{∂y}+\mu\left(\dfrac{∂^2v}{∂x^2}+\dfrac{∂^2v}{∂y^2}\right)$$
