@@ -1,6 +1,7 @@
 # Team Notes Index
 #navigation
 
+## **[Team Meeting Notes](meeting_notes.md)**
 ## By date
 
 ## By people involved
