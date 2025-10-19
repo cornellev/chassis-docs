@@ -5,10 +5,10 @@
 Different parts of the chassis use different cores. The bulkhead and baseplate is made with a divinycell core. Every other part has a soric core. The weight calculations for the door’s weight is based on the density of impregnated soric core since the weight of carbon fiber is negligible. We use a 3 mm [SF3](https://www.easycomposites.co.uk/lantor-soric-sf) [soric core](https://media.easycomposites.co.uk/datasheets/TDS_SORIC_CORE-SF.pdf). For CEV, one layer of core and two layers of carbon fiber is used for layups. 
 
 **Door weight and size:
-- Size (Area Estimate using a Square): 3558 cm2 , 0.3558 m2
+- Size (Area Estimate using a Square): 3558 cm^2 , 0.3558 m^2
 - Thickness: 8 mm, 0.008 m
-- Density of Impregnated Soric Core: 600 kg/m3
-- Volume:  0.00285 m3
+- Density of Impregnated Soric Core: 600 kg/m^3
+- Volume:  0.00285 m^3
 - Mass: 1.71 kg
 - Height: 95 cm, 0.95 m
 
