@@ -1,9 +1,9 @@
-# Zach
+# Selena
 #member
 
 ---
-hi CEV :)
-Main hub for everything Zach is currently working on or has contributed to.
+
+Main hub for everything Selena is currently working on or has contributed to.
 ## Currently working on:
 
 ## By topic
