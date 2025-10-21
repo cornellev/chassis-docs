@@ -1,4 +1,4 @@
-# ACP PreP
+# ACP Pre
 #note 
 ACP PreP: Users can define the individual plies of a composite material by specifying their material, thickness, and orientation within the structure
 
