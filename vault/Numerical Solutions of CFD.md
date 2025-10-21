@@ -16,3 +16,32 @@ $$\dfrac{\partial u}{∂x}+\dfrac{∂v}{∂y}=0$$$$\rho \left(u \dfrac{∂u}{∂
 	- Invert to get cell center values
 - Do post processing to get $p(x,y)$,$u(x,y)$, etc.
 ### How do we derive system of algebraic equations?
+- **Apply mass and momentum conservation to each cell**
+	- Use integral form of conservation equation
+	- Interpolate cell center values to get values at the control surfaces
+	- At boundaries, use boundary conditions
+$$\int_{S}\vec{V} \cdot \hat{n}\,dS$$
+### Order or accuracy
+$u_{1-2}=\dfrac{u_{1}+u_{2}}{2}+Error2$
+Using Taylor series, we get
+$u{1-2}=\frac{u{1}+u_{2}}{2}+0.5\left(\dfrac{∂^2u}{∂x^2}\right)_{1-2}\left(\frac{\Delta x}{2}\right)^2+...$ 
+Second-order accurate                 Error $\propto \Delta x^2$ 
+
+### Additional Complication: Algebraic equations are nonlinear
+**Momentum eq. has nonlinear terms
+$\int_{S} \rho\vec{V}\left(\vec{v}\cdot\hat{n}\right)\,dS=-\int_{S} p\hat{n}\,DS+\vec{F}_{visc}$ 
+
+**How to solve nonlinear systems?**
+	- Linearize about guess values
+	- Solve iteratively
+
+### Linearization
+Linearize $u_{1}^2$ using Newton's method
+$u=u_{g}+\Delta u$
+$f(u)=f(u_{g}+\Delta u)$ 
+	$=f(u_{g})+\Delta u f'(u_{g})+\frac{\Delta u^2}{2}f''(u_{g})$
+$f(u)=u^2$
+$f'(u)=2u$
+
+### Solution Process
+- Iterate the solution until residuals are below our set tolerance
