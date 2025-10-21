@@ -45,3 +45,15 @@ $f'(u)=2u$
 
 ### Solution Process
 - Iterate the solution until residuals are below our set tolerance
+- Aggregate imbalance or residual
+   $R=\frac{\Sigma |R_{i}|}{Scaling factor}$ 
+
+### Algorithm
+![Algorithm](images/Algorithm.png)
+
+### Extension to Irregular Meshes
+- **Cells can be any type of**
+	- Polygon in 2D
+	- Polyhedron in 3D
+- **Calculate fluxes and forces face by face**
+	- Use neighboring cell center values to get face values
