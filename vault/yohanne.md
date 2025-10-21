@@ -7,11 +7,11 @@ Helloooo
 
 Main hub for everything Yohanne is currently working on or has contributed to.
 ## Currently working on:
-Baseplate Load case analysis 
+[[Baseplate Load case analysis]]
 ## By topic
 
 ### Simulation
-ANSYS ACP 
+[[ACP]]
 ### Design
 
 ### Manufacturing

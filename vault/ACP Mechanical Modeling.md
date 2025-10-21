@@ -1,4 +1,5 @@
-### Setting up the Model
+# Setting up the Model
+#note 
 
 - Create Named selections and remote points if needed 
 - Generate Mesh if needed 
