@@ -1,6 +1,10 @@
 # Foundations of CFD
 #note
 
+More detailed course modules:
+[Mathematical Model](Mathematical%20Model.md)
+[Numerical Solutions of CFD](Numerical%20Solutions%20of%20CFD.md)
+
 ## The Black Box
 ### What's inside the Black Box?
 

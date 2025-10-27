@@ -5,10 +5,5 @@ The topics documented here are based off of Dr. Rajesh Bhaskaran's Canvas Course
 
 ## Course Modules
 [[Foundations of CFD]]
-[[Mathematical Model]]
-[[Numerical Solutions of CFD]]
-
-
-
-
+[[2D Laminar Flows]]
 
