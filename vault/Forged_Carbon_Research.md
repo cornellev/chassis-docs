@@ -1,7 +1,7 @@
 # Forged Carbon mold design research
 
 # 3D Printed Molds 
-
+[[serkan]]
 ## Process
 
 - A mold is designed in CAD and produced using a 3D printer (commonly PLA, ABS, or PETG).
