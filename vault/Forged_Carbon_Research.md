@@ -63,3 +63,7 @@
 - Cost: Significantly more expensive in terms of material and machining time.
 - Lead time: CNC programming and machining can take longer than 3D printing.
 - Overkill for one-off parts: If parts are not repeated, the investment may not be justified.
+
+
+
+Serkan Yurday

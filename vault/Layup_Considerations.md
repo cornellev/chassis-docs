@@ -11,3 +11,8 @@ Next we must take precautions to ensure that the carbon fiber will set properly.
 
 Prepreg Layup with Oven Cure
 This layup method may be useful for the manufacture of parts which will undergo high load. The prepreg process leads to a very high fibre/resin ratio, which is advantageous for several reasons. Firstly, since carbon is significantly lighter than resin, and the ratio of carbon is high, the part will be significantly lighter overall. Secondly, the mechanical properties of the part are improved. In a carbon fibre composite, the fibres provide nearly all the stiffness and strength. The resin mainly binds them together and transfers load between them. More fibres = the part can carry the same load at a lower weight.
+
+
+
+
+Serkan Yurday
