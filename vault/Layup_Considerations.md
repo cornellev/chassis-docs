@@ -1,3 +1,8 @@
+# Layup Considerations
+#note
+
+Authors: [[serkan]]
+
 Wet Layup with Vacuum Bagging
 This process is done by hand, and involves manually applying resin to dry carbon fiber inside a mold. 
 
