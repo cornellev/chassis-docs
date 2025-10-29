@@ -1,5 +1,7 @@
-## Chassis Subteam Rule Compliance Checklist – Shell Eco-marathon 2026
-[[serkan]]
+# Chassis Subteam Rule Compliance Checklist – Shell Eco-marathon 2026
+#note
+
+Authors: [[serkan]]
 
 Chassis / Monocoque Construction
 
