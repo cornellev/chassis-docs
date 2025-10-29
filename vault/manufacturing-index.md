@@ -6,6 +6,7 @@
 - [Sanding](Sanding.md)
 - [Spraying](Spraying.md)
 - [Layup](Layup.md)
+- [Layup_Considerations](Layup_Considerations.md)
 
 ---
 
