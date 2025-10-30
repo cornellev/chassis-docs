@@ -35,22 +35,9 @@ Bolt: 1/4 - 20    Clearance Hole
 For a typical residential door, hinges are placed 5 to 7 inches from the top edge and 10 to 12 inches from the bottom edge. The height of a typical residential door is 80 inches. 
 
 
-\documentclass{article}
-\usepackage{amsmath}
-\begin{document}
+Top Hinge Distance From Top edge: (5/60) × 9.5 cm = 7.92 cm  
+Bottom Hinge Distance From Top edge: (10/60) × 0.95 = 0.158 m = 15.8 cm
 
-\noindent
-\textbf{Top Hinge Distance From Top edge:}
-\[
-\frac{5}{60} \times 9.5\,\text{cm} = 7.92\,\text{cm}
-\]
-
-\textbf{Bottom Hinge Distance From Top edge:}
-\[
-\frac{10}{60} \times 0.95 = 0.158\,\text{m} = 15.8\,\text{cm}
-\]
-
-\end{document}
 
 **Hinge Dimensions:
 - Width/Height: = 9 cm
