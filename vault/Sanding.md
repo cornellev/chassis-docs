@@ -1,5 +1,7 @@
 # Sanding
 #note 
+
+Author: Ei
 ### Research about Refining Our Process
 
 **Sanding:**
