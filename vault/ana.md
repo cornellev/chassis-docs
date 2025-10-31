@@ -2,11 +2,10 @@
 #member
 
 ---
-my first time using Obsidian
-
 
 Main hub for everything Ana is currently working on or has contributed to.
 ## Currently working on:
+[[Carbon Fiber Documentation]]
 
 ## By topic
 
