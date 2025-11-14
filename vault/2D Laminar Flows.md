@@ -70,3 +70,11 @@ $$
 
 
 Which allow us to solve the unknown functions $v_r(r,z)$, $v_z(r,z)$, and $p(r,z)$.
+
+## How to setup things (rough version)
+1. Set your solution type to **Laminar**
+2. Create a material for your problem, make sure that you are using the fluid that you want (you can use any fluid that you want)
+3. Set your cell center conditions to that fluid
+4. Set your inlet & exit properties, then initalize
+5. Run simulation
+6. Then put into CFD Post and visualize, or go into Fluent
